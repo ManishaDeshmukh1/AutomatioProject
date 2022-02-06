@@ -1,0 +1,5 @@
+question 1 )other tests could be done using other testdata such as changing number of dependents,propety to buy and application type with other values 
+
+question 2)parallel execution can speed up the execution also headless execution will also be useful
+
+question 3)To increase the reliability of tests we can use waits also we can wait till objects are visible and can apply conditions accordingly to check
